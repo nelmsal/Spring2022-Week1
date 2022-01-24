@@ -1,4 +1,4 @@
-name: musa-650
+name: MUSA-650
 channels:
   - conda-forge
   - defaults
